@@ -1,0 +1,4 @@
+Usage: java -cp Pancancer.jar util.CreateVariantList input_file_path output_file_path [include_synonymous]
+Input file must have 3 columns: sample_id, sample_name and path to annova variant output with gene names
+Tumor and normal samples for one case must have the same sample_name
+Optional flag: include_synonymous must be the last argument. If missing, synonymous mutations will be excluded.

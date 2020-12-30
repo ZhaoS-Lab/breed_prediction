@@ -1,0 +1,211 @@
+Sample_id	SampleName	CancerType	DiseaseAcronym	DiseaseSubtype/Tissue	Breed	Age	Status
+SAMN03436658	CCB010102	Osteosarcoma	OSA	NA	Golden Retriever	7	Tumor
+SAMN03436820	CCB010102	Osteosarcoma	OSA	NA	Golden Retriever	7	Normal
+SAMN03436611	CCB010059	Osteosarcoma	OSA	NA	Golden Retriever	12	Tumor
+SAMN03436666	CCB010059	Osteosarcoma	OSA	NA	Golden Retriever	12	Normal
+SAMN03436558	CCB070053	Osteosarcoma	OSA	NA	Golden Retriever	10	Tumor
+SAMN03732756	CCB070053	Osteosarcoma	OSA	NA	Golden Retriever	10	Normal
+SAMN03436652	CCB070051	Osteosarcoma	OSA	NA	Golden Retriever	12	Tumor
+SAMN03732741	CCB070051	Osteosarcoma	OSA	NA	Golden Retriever	12	Normal
+SAMN03436687	CCB010069	Osteosarcoma	OSA	NA	Golden Retriever	12	Tumor
+SAMN03436286	CCB010069	Osteosarcoma	OSA	NA	Golden Retriever	12	Normal
+SAMN03436891	CCB010005	Osteosarcoma	OSA	NA	Golden Retriever	10	Tumor
+SAMN03436630	CCB010005	Osteosarcoma	OSA	NA	Golden Retriever	10	Normal
+SAMN03436806	CCB070044	Osteosarcoma	OSA	NA	Golden Retriever	5	Tumor
+SAMN03732743	CCB070044	Osteosarcoma	OSA	NA	Golden Retriever	5	Normal
+SAMN03436631	CCB010035	Osteosarcoma	OSA	NA	Golden Retriever	9	Tumor
+SAMN03436633	CCB010035	Osteosarcoma	OSA	NA	Golden Retriever	9	Normal
+SAMN03436581	CCB060138	Osteosarcoma	OSA	NA	Golden Retriever	10	Tumor
+SAMN03732676	CCB060138	Osteosarcoma	OSA	NA	Golden Retriever	10	Normal
+SAMN03436937	CCB010023	Osteosarcoma	OSA	NA	Golden Retriever	10	Tumor
+SAMN03436671	CCB010023	Osteosarcoma	OSA	NA	Golden Retriever	10	Normal
+SAMN03436509	CCB020156	Osteosarcoma	OSA	NA	Golden Retriever	9	Tumor
+SAMN03436595	CCB020156	Osteosarcoma	OSA	NA	Golden Retriever	9	Normal
+SAMN03436493	CCB050102	Osteosarcoma	OSA	NA	Golden Retriever	11	Tumor
+SAMN03436644	CCB050102	Osteosarcoma	OSA	NA	Golden Retriever	11	Normal
+SAMN03436580	CCB070049	Osteosarcoma	OSA	NA	Golden Retriever	3	Tumor
+SAMN03732735	CCB070049	Osteosarcoma	OSA	NA	Golden Retriever	3	Normal
+SAMN03436642	CCB060148	Osteosarcoma	OSA	NA	Golden Retriever	8	Tumor
+SAMN03732680	CCB060148	Osteosarcoma	OSA	NA	Golden Retriever	8	Normal
+SAMN03436265	CCB010060	Osteosarcoma	OSA	NA	Golden Retriever	10	Tumor
+SAMN03436281	CCB010060	Osteosarcoma	OSA	NA	Golden Retriever	10	Normal
+SAMN03436685	CCB060099	Osteosarcoma	OSA	NA	Golden Retriever	6	Tumor
+SAMN03732684	CCB060099	Osteosarcoma	OSA	NA	Golden Retriever	6	Normal
+SAMN03436700	CCB020071	Osteosarcoma	OSA	NA	Golden Retriever	7	Tumor
+SAMN03436283	CCB020071	Osteosarcoma	OSA	NA	Golden Retriever	7	Normal
+SAMN03436457	CCB050015	Osteosarcoma	OSA	NA	Golden Retriever	6	Tumor
+SAMN03436940	CCB050015	Osteosarcoma	OSA	NA	Golden Retriever	6	Normal
+SAMN03436674	CCB030061	Osteosarcoma	OSA	NA	Golden Retriever	9	Tumor
+SAMN03436527	CCB030061	Osteosarcoma	OSA	NA	Golden Retriever	9	Normal
+SAMN03436503	CCB030078	Osteosarcoma	OSA	NA	Golden Retriever	9	Tumor
+SAMN03436855	CCB030078	Osteosarcoma	OSA	NA	Golden Retriever	9	Normal
+SAMN03436541	CCB060066	Osteosarcoma	OSA	NA	Golden Retriever	7	Tumor
+SAMN03436781	CCB060066	Osteosarcoma	OSA	NA	Golden Retriever	7	Normal
+SAMN03436621	CCB040033	Osteosarcoma	OSA	NA	Golden Retriever	8	Tumor
+SAMN03436512	CCB040033	Osteosarcoma	OSA	NA	Golden Retriever	8	Normal
+SAMN03436693	GarLar	Osteosarcoma	OSA	NA	Greyhound	8	Tumor
+SAMN03436645	GarLar	Osteosarcoma	OSA	NA	Greyhound	8	Normal
+SAMN03436706	TriPar	Osteosarcoma	OSA	NA	Greyhound	10	Tumor
+SAMN03436640	TriPar	Osteosarcoma	OSA	NA	Greyhound	10	Normal
+SAMN03436496	PepRey	Osteosarcoma	OSA	NA	Greyhound	9	Tumor
+SAMN03436938	PepRey	Osteosarcoma	OSA	NA	Greyhound	9	Normal
+SAMN03732679	JacMay	Osteosarcoma	OSA	NA	Greyhound	5	Tumor
+SAMN03436724	JacMay	Osteosarcoma	OSA	NA	Greyhound	5	Normal
+SAMN03732777	FBB	Osteosarcoma	OSA	NA	Greyhound	8	Tumor
+SAMN03436470	FBB	Osteosarcoma	OSA	NA	Greyhound	8	Normal
+SAMN03732754	AllSmi	Osteosarcoma	OSA	NA	Greyhound	6	Tumor
+SAMN03436686	AllSmi	Osteosarcoma	OSA	NA	Greyhound	6	Normal
+SAMN03436501	GalLyo	Osteosarcoma	OSA	NA	Greyhound	9	Tumor
+SAMN03732750	GalLyo	Osteosarcoma	OSA	NA	Greyhound	9	Normal
+SAMN03436278	SanSte	Osteosarcoma	OSA	NA	Greyhound	11	Tumor
+SAMN03436506	SanSte	Osteosarcoma	OSA	NA	Greyhound	11	Normal
+SAMN03436505	DiaPar	Osteosarcoma	OSA	NA	Greyhound	12	Tumor
+SAMN03732683	DiaPar	Osteosarcoma	OSA	NA	Greyhound	12	Normal
+SAMN03732681	JohMar	Osteosarcoma	OSA	NA	Greyhound	10	Tumor
+SAMN03436887	JohMar	Osteosarcoma	OSA	NA	Greyhound	10	Normal
+SAMN03436276	GraWie	Osteosarcoma	OSA	NA	Greyhound	7	Tumor
+SAMN03436546	GraWie	Osteosarcoma	OSA	NA	Greyhound	7	Normal
+SAMN03436835	AleKee	Osteosarcoma	OSA	NA	Greyhound	10	Tumor
+SAMN03732738	AleKee	Osteosarcoma	OSA	NA	Greyhound	10	Normal
+SAMN03436510	HBB	Osteosarcoma	OSA	NA	Greyhound	8	Tumor
+SAMN03732749	HBB	Osteosarcoma	OSA	NA	Greyhound	8	Normal
+SAMN03436485	ShaRin	Osteosarcoma	OSA	NA	Greyhound	8	Tumor
+SAMN03436627	ShaRin	Osteosarcoma	OSA	NA	Greyhound	8	Normal
+SAMN03732778	GenCon	Osteosarcoma	OSA	NA	Greyhound	8	Tumor
+SAMN03436710	GenCon	Osteosarcoma	OSA	NA	Greyhound	8	Normal
+SAMN03732752	PhaMor	Osteosarcoma	OSA	NA	Greyhound	5	Tumor
+SAMN03436499	PhaMor	Osteosarcoma	OSA	NA	Greyhound	5	Normal
+SAMN03732678	PurRow	Osteosarcoma	OSA	NA	Greyhound	9	Tumor
+SAMN03436544	PurRow	Osteosarcoma	OSA	NA	Greyhound	9	Normal
+SAMN03436468	AlvWen	Osteosarcoma	OSA	NA	Greyhound	9	Tumor
+SAMN03732751	AlvWen	Osteosarcoma	OSA	NA	Greyhound	9	Normal
+SAMN03732753	ColWym	Osteosarcoma	OSA	NA	Greyhound	4	Tumor
+SAMN03436669	ColWym	Osteosarcoma	OSA	NA	Greyhound	4	Normal
+SAMN03732746	TacRei	Osteosarcoma	OSA	NA	Greyhound	7	Tumor
+SAMN03436610	TacRei	Osteosarcoma	OSA	NA	Greyhound	7	Normal
+SAMN03436626	JoeVar	Osteosarcoma	OSA	NA	Greyhound	7	Tumor
+SAMN03732677	JoeVar	Osteosarcoma	OSA	NA	Greyhound	7	Normal
+SAMN03436613	MinMei	Osteosarcoma	OSA	NA	Greyhound	10	Tumor
+SAMN03436617	MinMei	Osteosarcoma	OSA	NA	Greyhound	10	Normal
+SAMN03436291	HemBig	Osteosarcoma	OSA	NA	Greyhound	9	Tumor
+SAMN03732736	HemBig	Osteosarcoma	OSA	NA	Greyhound	9	Normal
+SRR7781064	CMT-495	Mammary	MT	Simple carcinoma (Solid type)	Shih Tzu	14	Tumor
+SRR7781065	CMT-495	Mammary	MT	Simple carcinoma (Solid type)	Shih Tzu	14	Normal
+SRR7780793	CMT-417	Mammary	MT	Simple adenoma	Shih Tzu	12	Tumor
+SRR7780790	CMT-417	Mammary	MT	Simple adenoma	Shih Tzu	12	Normal
+SRR7781011	CMT-686	Mammary	MT	Simple carcinoma (tubulopapillary type)	Shih Tzu	16	Tumor
+SRR7781010	CMT-686	Mammary	MT	Simple carcinoma (tubulopapillary type)	Shih Tzu	16	Normal
+SRR7781029	CMT-60	Mammary	MT	Complex adenoma	Shih Tzu	11	Tumor
+SRR7781028	CMT-60	Mammary	MT	Complex adenoma	Shih Tzu	11	Normal
+SRR7780850	CMT-247	Mammary	MT	Simple carcinoma (Solid type)	Shih Tzu	11	Tumor
+SRR7780851	CMT-247	Mammary	MT	Simple carcinoma (Solid type)	Shih Tzu	11	Normal
+SRR7780995	CMT-241	Mammary	MT	Simple carcinoma (tubulopapillary type)	Shih Tzu	14	Tumor
+SRR7780994	CMT-241	Mammary	MT	Simple carcinoma (tubulopapillary type)	Shih Tzu	14	Normal
+SRR7780959	CMT-365	Mammary	MT	Complex carcinoma	Shih Tzu	11	Tumor
+SRR7780960	CMT-365	Mammary	MT	Complex carcinoma	Shih Tzu	11	Normal
+SRR7780857	CMT-348	Mammary	MT	Complex carcinoma	Shih Tzu	15	Tumor
+SRR7780856	CMT-348	Mammary	MT	Complex carcinoma	Shih Tzu	15	Normal
+SRR7781070	CMT-523	Mammary	MT	Carcinoma in benign mixed tumor	Shih Tzu	9	Tumor
+SRR7781062	CMT-523	Mammary	MT	Carcinoma in benign mixed tumor	Shih Tzu	9	Normal
+SRR7781021	CMT-318	Mammary	MT	Simple carcinoma (Solid type)	Shih Tzu	14	Tumor
+SRR7781020	CMT-318	Mammary	MT	Simple carcinoma (Solid type)	Shih Tzu	14	Normal
+SRR7781058	CMT-400	Mammary	MT	Simple carcinoma (tubulopapillary type)	Shih Tzu	NA	Tumor
+SRR7781053	CMT-400	Mammary	MT	Simple carcinoma (tubulopapillary type)	Shih Tzu	NA	Normal
+SRR7780839	CMT-156	Mammary	MT	Complex adenoma	Shih Tzu	8	Tumor
+SRR7780838	CMT-156	Mammary	MT	Complex adenoma	Shih Tzu	8	Normal
+SRR7781105	CMT-659	Mammary	MT	Simple carcinoma (tubulopapillary type)	Shih Tzu	9	Tumor
+SRR7781106	CMT-659	Mammary	MT	Simple carcinoma (tubulopapillary type)	Shih Tzu	9	Normal
+SRR7780761	CMT-63	Mammary	MT	Carcinoma in benign mixed tumor	Shih Tzu	12	Tumor
+SRR7780760	CMT-63	Mammary	MT	Carcinoma in benign mixed tumor	Shih Tzu	12	Normal
+SRR7780762	CMT-74	Mammary	MT	Simple adenoma	Shih Tzu	13	Tumor
+SRR7780763	CMT-74	Mammary	MT	Simple adenoma	Shih Tzu	13	Normal
+SRR7781043	CMT-184	Mammary	MT	Complex carcinoma	Shih Tzu	8	Tumor
+SRR7781042	CMT-184	Mammary	MT	Complex carcinoma	Shih Tzu	8	Normal
+SRR7780864	CMT-613	Mammary	MT	Simple carcinoma (Solid type)	Shih Tzu	10	Tumor
+SRR7780865	CMT-613	Mammary	MT	Simple carcinoma (Solid type)	Shih Tzu	10	Normal
+SRR7781091	CMT-233	Mammary	MT	Simple carcinoma (tubulopapillary type)	Shih Tzu	10	Tumor
+SRR7781092	CMT-233	Mammary	MT	Simple carcinoma (tubulopapillary type)	Shih Tzu	10	Normal
+SRR7781082	CMT-129	Mammary	MT	Spindle cell carcinoma (Malignant myoepithelioma)	Shih Tzu	14	Tumor
+SRR7781081	CMT-129	Mammary	MT	Spindle cell carcinoma (Malignant myoepithelioma)	Shih Tzu	14	Normal
+SRR7780923	CMT-2	Mammary	MT	Carcinoma in benign mixed tumor	Shih Tzu	10	Tumor
+SRR7780922	CMT-2	Mammary	MT	Carcinoma in benign mixed tumor	Shih Tzu	10	Normal
+SRR7781095	CMT-232	Mammary	MT	Complex adenoma	Shih Tzu	12	Tumor
+SRR7781096	CMT-232	Mammary	MT	Complex adenoma	Shih Tzu	12	Normal
+SRR7780912	CMT-292	Mammary	MT	Simple carcinoma (tubulopapillary type)	Shih Tzu	2	Tumor
+SRR7780913	CMT-292	Mammary	MT	Simple carcinoma (tubulopapillary type)	Shih Tzu	2	Normal
+SRR7780990	CMT-111	Mammary	MT	Carcinoma in benign mixed tumor	Shih Tzu	10	Tumor
+SRR7780991	CMT-111	Mammary	MT	Carcinoma in benign mixed tumor	Shih Tzu	10	Normal
+SRR7780936	CMT-33	Mammary	MT	Benign mixed tumor	Yorkshire Terrier	11	Tumor
+SRR7780937	CMT-33	Mammary	MT	Benign mixed tumor	Yorkshire Terrier	11	Normal
+SRR7780739	CMT-340	Mammary	MT	Carcinosarcoma	Yorkshire Terrier	17	Tumor
+SRR7780740	CMT-340	Mammary	MT	Carcinosarcoma	Yorkshire Terrier	17	Normal
+SRR7780968	CMT-538	Mammary	MT	Complex carcinoma	Yorkshire Terrier	13	Tumor
+SRR7781069	CMT-538	Mammary	MT	Complex carcinoma	Yorkshire Terrier	13	Normal
+SRR7780754	CMT-638	Mammary	MT	Simple carcinoma (tubulopapillary type)	Yorkshire Terrier	8.9	Tumor
+SRR7780753	CMT-638	Mammary	MT	Simple carcinoma (tubulopapillary type)	Yorkshire Terrier	8.9	Normal
+SRR7780821	CMT-634	Mammary	MT	Carcinoma in benign mixed tumor	Yorkshire Terrier	10	Tumor
+SRR7780751	CMT-634	Mammary	MT	Carcinoma in benign mixed tumor	Yorkshire Terrier	10	Normal
+SRR7781077	CMT-106	Mammary	MT	Simple adenoma	Yorkshire Terrier	13	Tumor
+SRR7781072	CMT-106	Mammary	MT	Simple adenoma	Yorkshire Terrier	13	Normal
+SRR7780984	CMT-116	Mammary	MT	Osteosarcoma	Yorkshire Terrier	13	Tumor
+SRR7780985	CMT-116	Mammary	MT	Osteosarcoma	Yorkshire Terrier	13	Normal
+SRR7780907	CMT-711	Mammary	MT	Complex adenoma	Yorkshire Terrier	12	Tumor
+SRR7781005	CMT-711	Mammary	MT	Complex adenoma	Yorkshire Terrier	12	Normal
+SRR7780944	CMT-136	Mammary	MT	Simple adenoma	Yorkshire Terrier	12	Tumor
+SRR7780945	CMT-136	Mammary	MT	Simple adenoma	Yorkshire Terrier	12	Normal
+SRR7780860	CMT-353	Mammary	MT	Complex carcinoma	Yorkshire Terrier	NA	Tumor
+SRR7781049	CMT-353	Mammary	MT	Complex carcinoma	Yorkshire Terrier	NA	Normal
+SRR7780837	CMT-153	Mammary	MT	Complex carcinoma	Yorkshire Terrier	14	Tumor
+SRR7780836	CMT-153	Mammary	MT	Complex carcinoma	Yorkshire Terrier	14	Normal
+SRR7781088	CMT-124	Mammary	MT	Complex adenoma	Yorkshire Terrier	12	Tumor
+SRR7781087	CMT-124	Mammary	MT	Complex adenoma	Yorkshire Terrier	12	Normal
+SRR7780827	CMT-24	Mammary	MT	Simple adenoma	Yorkshire Terrier	14	Tumor
+SRR7780826	CMT-24	Mammary	MT	Simple adenoma	Yorkshire Terrier	14	Normal
+SRR7780862	CMT-354	Mammary	MT	Simple carcinoma (tubulopapillary type)	Yorkshire Terrier	16	Tumor
+SRR7780861	CMT-354	Mammary	MT	Simple carcinoma (tubulopapillary type)	Yorkshire Terrier	16	Normal
+SRR7780741	CMT-344	Mammary	MT	Simple carcinoma (Solid type)	Yorkshire Terrier	17	Tumor
+SRR7780742	CMT-344	Mammary	MT	Simple carcinoma (Solid type)	Yorkshire Terrier	17	Normal
+SRR7781090	CMT-128	Mammary	MT	Complex adenoma	Yorkshire Terrier	7	Tumor
+SRR7781089	CMT-128	Mammary	MT	Complex adenoma	Yorkshire Terrier	7	Normal
+SRR7781080	CMT-109	Mammary	MT	Simple carcinoma (tubulopapillary type)	Yorkshire Terrier	10	Tumor
+SRR7781079	CMT-109	Mammary	MT	Simple carcinoma (tubulopapillary type)	Yorkshire Terrier	10	Normal
+ERR1672174-ERR1672261	DD0069	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672173-ERR1672260	DD0069	Melanoma	OM	NA	NA	NA	Normal
+ERR1672207-ERR1681424	DD0095	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672206-ERR1681423	DD0095	Melanoma	OM	NA	NA	NA	Normal
+ERR1672213-ERR1681430	DD0098	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672212-ERR1681429	DD0098	Melanoma	OM	NA	NA	NA	Normal
+ERR1681463-ERR1681508	DD0005	Melanoma	OM	NA	NA	NA	Tumor
+ERR1681462-ERR1681507	DD0005-1	Melanoma	OM	NA	NA	NA	Normal
+ERR1672196-ERR1672283	DD0085	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672195-ERR1672282	DD0085	Melanoma	OM	NA	NA	NA	Normal
+ERR1672162-ERR1672249	DD0063	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672161-ERR1672248	DD0063	Melanoma	OM	NA	NA	NA	Normal
+ERR1672211-ERR1681428	DD0097	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672210-ERR1681427	DD0097	Melanoma	OM	NA	NA	NA	Normal
+ERR2396467-ERR2496953	DD0008	Melanoma	OM	NA	NA	NA	Tumor
+ERR2396466-ERR2496952	DD0008	Melanoma	OM	NA	NA	NA	Normal
+ERR1681472-ERR1681517	DD0014	Melanoma	OM	NA	NA	NA	Tumor
+ERR1681471-ERR1681516	DD0014	Melanoma	OM	NA	NA	NA	Normal
+ERR1681451-ERR1681496	DD0081	Melanoma	OM	NA	NA	NA	Tumor
+ERR1681450-ERR1681495	DD0081	Melanoma	OM	NA	NA	NA	Normal
+ERR2436316-ERR2496963	DD0015	Melanoma	OM	NA	NA	NA	Tumor
+ERR2436315-ERR2496962	DD0015	Melanoma	OM	NA	NA	NA	Normal
+ERR1681500-ERR1681455	DD0001	Melanoma	OM	NA	NA	NA	Tumor
+ERR1681499-ERR1681454	DD0001	Melanoma	OM	NA	NA	NA	Normal
+ERR1672215-ERR1681432	DD0099	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672214-ERR1681431	DD0099	Melanoma	OM	NA	NA	NA	Normal
+ERR1672209-ERR1681426	DD0096	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672208-ERR1681425	DD0096	Melanoma	OM	NA	NA	NA	Normal
+ERR1672156-ERR1672243	DD0060	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672155-ERR1672242	DD0060	Melanoma	OM	NA	NA	NA	Normal
+ERR1672178-ERR1672265	DD0071	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672177-ERR1672264	DD0071	Melanoma	OM	NA	NA	NA	Normal
+ERR1672130-ERR1672217	DD0044	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672129-ERR1672216	DD0044	Melanoma	OM	NA	NA	NA	Normal
+ERR1672176-ERR1672263	DD0070	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672175-ERR1672262	DD0070	Melanoma	OM	NA	NA	NA	Normal
+ERR1672160-ERR1672247	DD0062	Melanoma	OM	NA	NA	NA	Tumor
+ERR1672159-ERR1672246	DD0062	Melanoma	OM	NA	NA	NA	Normal
+ERR1681449-ERR1681494	DD0072	Melanoma	OM	NA	NA	NA	Tumor
+ERR1681448-ERR1681493	DD0072	Melanoma	OM	NA	NA	NA	Normal

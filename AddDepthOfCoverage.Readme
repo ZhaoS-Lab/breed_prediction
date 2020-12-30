@@ -1,0 +1,13 @@
+############################################################################################################################################
+## Usage: java -Xmx32g -cp Pancancer.jar util.AddDepthOfCoverage variant_depth_matrix variant_column_count sample_list_file output_file   ##
+## Recommeneded JVM arguments: -Xmx32g, maximum Java memory to be passed right after the java command: see JVM documentation              ##
+## Commad line arguments:                                                                                                                 ##
+##    variant_depth_matrix:     tab-delimited file with 5 or more columns describing the variants followed by sample columns as follows:  ##
+##                           Gene   Chromosome   Pos   Ref allele   Alt allele   Optional columns   More columns for samples              ##
+##    variant_column_count:  the expected number of columns in the variant_list_file (5-30)                                               ##
+##    sample_list_file:      tab-delimited file with three columns as follows:                                                            ##
+##                           Sample id          VCF file path (not used in this program)          Depth for coverage file path            ##
+##                           Lines starting with # will be ignored                                                                        ##
+##    output_file:           Path to output file or keyword 'overwrite' to save the results in the same path of variant_depth_matrix      ##
+##                           Outputs the variant_depth_matrix with variant depths added to the beginning of the VCF-derived depths        ##
+############################################################################################################################################

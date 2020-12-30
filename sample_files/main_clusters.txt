@@ -1,0 +1,86 @@
+SampleName	Breed
+CMT-63	Shih Tzu
+CMT-232	Shih Tzu
+CMT-2	Shih Tzu
+CMT-233	Shih Tzu
+CMT-344	Yorkshire Terrier
+CMT-156	Shih Tzu
+CMT-60	Shih Tzu
+CMT-318	Shih Tzu
+CMT-184	Shih Tzu
+CMT-241	Shih Tzu
+CMT-111	Shih Tzu
+CMT-354	Yorkshire Terrier
+CMT-129	Shih Tzu
+CMT-74	Shih Tzu
+CMT-495	Shih Tzu
+CMT-400	Shih Tzu
+CMT-292	Shih Tzu
+CMT-247	Shih Tzu
+CMT-417	Shih Tzu
+CMT-348	Shih Tzu
+CMT-365	Shih Tzu
+CMT-613	Shih Tzu
+CMT-686	Shih Tzu
+CMT-659	Shih Tzu
+CMT-523	Shih Tzu
+CCB060099	Golden Retriever
+CCB020156	Golden Retriever
+CCB030061	Golden Retriever
+CCB060066	Golden Retriever
+CCB030078	Golden Retriever
+CCB010023	Golden Retriever
+CCB060138	Golden Retriever
+CCB010005	Golden Retriever
+CCB070051	Golden Retriever
+CCB060148	Golden Retriever
+CCB070053	Golden Retriever
+CCB070049	Golden Retriever
+CCB010102	Golden Retriever
+CCB050102	Golden Retriever
+CCB010069	Golden Retriever
+CCB020071	Golden Retriever
+CCB010059	Golden Retriever
+CCB070044	Golden Retriever
+CCB050015	Golden Retriever
+CCB010060	Golden Retriever
+CCB040033	Golden Retriever
+CCB010035	Golden Retriever
+CMT-106	Yorkshire Terrier
+CMT-33	Yorkshire Terrier
+CMT-136	Yorkshire Terrier
+CMT-116	Yorkshire Terrier
+CMT-109	Yorkshire Terrier
+CMT-634	Yorkshire Terrier
+CMT-340	Yorkshire Terrier
+CMT-538	Yorkshire Terrier
+CMT-638	Yorkshire Terrier
+CMT-153	Yorkshire Terrier
+CMT-124	Yorkshire Terrier
+CMT-711	Yorkshire Terrier
+CMT-128	Yorkshire Terrier
+CMT-24	Yorkshire Terrier
+CMT-353	Yorkshire Terrier
+SanSte	Greyhound
+ColWym	Greyhound
+GalLyo	Greyhound
+GarLar	Greyhound
+PurRow	Greyhound
+DiaPar	Greyhound
+AllSmi	Greyhound
+JohMar	Greyhound
+MinMei	Greyhound
+HemBig	Greyhound
+AlvWen	Greyhound
+FBB	Greyhound
+AleKee	Greyhound
+GraWie	Greyhound
+GenCon	Greyhound
+TriPar	Greyhound
+HBB	Greyhound
+ShaRin	Greyhound
+TacRei	Greyhound
+PhaMor	Greyhound
+JoeVar	Greyhound
+PepRey	Greyhound
+JacMay	Greyhound

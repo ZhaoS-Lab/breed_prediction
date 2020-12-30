@@ -1,0 +1,208 @@
+Gene	Locus	Mutation	Protein	Breed	Variant_Type	Sample_Count	Sample_Percentage
+AADACL4	chr2:83766092	A>G	F346L	Golden Retriever	Het,Hom	12	54.55
+AADACL4	chr2:83766215	T>G	N305H	Golden Retriever	Het,Hom	12	54.55
+ABCA12	chr37:22213074	C>T	E421K	Yorkshire Terrier	Het,Hom	11	64.71
+ABCA1	chr11:60817183	C>T	T351T	Yorkshire Terrier	Het,Hom	8	47.06
+ABCA5	chr9:15524897	C>T	V1383M	Yorkshire Terrier	Het,Hom	7	41.18
+ABCB10	chr4:9745058	C>T	D701D	Shih Tzu	Het,Hom	11	47.83
+ABCB8	chr16:15086292	T>C	A45A	Yorkshire Terrier	Het,Hom	14	82.35
+ABCB8	chr16:15086354	A>G	Q66R	Yorkshire Terrier	Het,Hom	14	82.35
+ABCB8	chr16:15087026	C>A	R164R	Yorkshire Terrier	Het,Hom	14	82.35
+ABCB8	chr16:15088788	T>C	Y340Y	Yorkshire Terrier	Het,Hom	14	82.35
+ABCB8	chr16:15089273	G>A	Q388Q	Yorkshire Terrier	Het,Hom	14	82.35
+ABCB8	chr16:15093466	A>G	I587V	Yorkshire Terrier	Het,Hom	14	82.35
+ABCB8	chr16:15094932	C>T	H661H	Yorkshire Terrier	Het,Hom	14	82.35
+ABCC6	chr6:27826512	C>T	G750G	Shih Tzu	Het,Hom	17	73.91
+ABCC6	chr6:27830981	A>C	S906R	Yorkshire Terrier	Het,Hom	10	58.82
+ABCC9	chr27:25260895	T>C	Y574H	Yorkshire Terrier	Het,Hom	8	47.06
+ABCG1	chr31:36612091	G>A	P299P	Golden Retriever	Het,Hom	9	40.91
+ABCG8	chr10:46305617	G>A	R49Q	Shih Tzu	Het,Hom	10	43.48
+ABLIM1	chr28:25294323	T>C	I311V	Greyhound	Het	12	52.17
+ABTB2	chr18:33633681	C>T	R594C	Golden Retriever	Het,Hom	12	54.55
+ACADVL	chr5:32192689	C>T	A415A	Yorkshire Terrier	Het	7	41.18
+ACAN	chr3:52004225	C>T	F430F	Yorkshire Terrier	Het,Hom	7	41.18
+ACAN	chr3:52009056	G>A	L613L	Yorkshire Terrier	Het,Hom	7	41.18
+ACAN	chr3:52029625	T>C	C2180C	Yorkshire Terrier	Het,Hom	7	41.18
+ACAP1	chr5:32305095	C>T	R702R	Yorkshire Terrier	Het	7	41.18
+ACBD4	chr9:18397435	G>A	C54C	Greyhound	Het	10	43.48
+ACKR3	chr25:47338583	G>A	T300T	Golden Retriever	Het,Hom	11	50
+ACSF3	chr5:64298059	C>T	G484S	Golden Retriever	Het,Hom	12	54.55
+ACSL5	chr28:23471354	T>C	N384N	Yorkshire Terrier	Het,Hom	8	47.06
+ACTA2	chr26:38705275	G>A	S154S	Greyhound	Het,Hom	22	95.65
+ACTN3	chr18:50794777	G>T	R371R	Greyhound	Het,Hom	13	56.52
+ACTN3	chr18:50800372	C>T	V178V	Greyhound	Het,Hom	13	56.52
+ACTN3	chr18:50800574	G>C	S111C	Greyhound	Het,Hom	11	47.83
+ADAM10	chr30:23650734	T>C	R179R	Golden Retriever	Het,Hom	9	40.91
+ADAM28	chr25:33096294	G>A	R698C	Golden Retriever	Het,Hom	13	59.09
+ADAMTS10	chr20:53094934	C>G	P830P	Golden Retriever	Het	13	59.09
+ADAMTS10	chr20:53096322	C>T	P732P	Golden Retriever	Het	13	59.09
+ADAMTS18	chr5:73831932	A>T	H196L	Shih Tzu	Het,Hom	12	52.17
+ADAMTS18	chr5:73834332	T>C	L262L	Shih Tzu	Het,Hom	12	52.17
+ADAMTS18	chr5:73836583	G>A	V345I	Shih Tzu	Het,Hom	12	52.17
+ADAMTS1	chr31:22171770	G>A	N747N	Greyhound	Het,Hom	14	60.87
+ADAMTS20	chr27:10627547	C>A	A1617D	Yorkshire Terrier	Het,Hom	9	52.94
+ADAMTS20	chr27:10654193	C>T	L1851L	Yorkshire Terrier	Het,Hom	9	52.94
+ADAMTSL2	chr9:49953078	C>T	P614P	Yorkshire Terrier	Het,Hom	7	41.18
+ADCY10	chr7:30586457	G>A	A100A	Greyhound	Het,Hom	11	47.83
+ADCY10	chr7:30633043	G>A	R930R	Greyhound	Het,Hom	11	47.83
+ADCY10	chr7:30643551	C>G	S1176S	Shih Tzu	Het	12	52.17
+ADCY1	chr16:1099306	G>T	P710P	Yorkshire Terrier	Het	7	41.18
+ADCY4	chr8:4298477	T>A	A460A	Golden Retriever	Het,Hom	10	45.45
+ADGRA3	chr3:87434497	G>A	T1060T	Greyhound	Het,Hom	14	60.87
+ADGRG1	chr2:58813984	C>A	S240S	Greyhound	Het	11	47.83
+ADGRL2	chr6:65609405	T>C	N1032S	Yorkshire Terrier	Het,Hom	9	52.94
+ADGRL2	chr6:65623046	T>C	S728G	Greyhound	Het,Hom	15	65.22
+ADGRV1	chr3:18243768	G>A	T3334M	Yorkshire Terrier	Het,Hom	7	41.18
+ADRB2	chr4:60049133	G>A	T389M	Golden Retriever	Het,Hom	15	68.18
+ADSS1	chr8:72299698	G>A	T197T	Shih Tzu	Het,Hom	14	60.87
+ADSS1	chr8:72303628	C>T	G393G	Shih Tzu	Het,Hom	14	60.87
+AFF1	chr32:10599736	C>T	S506S	Yorkshire Terrier	Het	8	47.06
+AFF1	chr32:10605262	C>G	L584V	Yorkshire Terrier	Het	9	52.94
+AGBL5	chr17:21049056	T>A	L114Q	Greyhound	Het,Hom	21	91.3
+AGER	chr12:1576798	C>T	P48P	Shih Tzu	Het,Hom	13	56.52
+AGO3	chr15:6158319	C>T	A453T	Yorkshire Terrier	Het,Hom	8	47.06
+AHNAK	chr18:54101969	T>C	I343T	Greyhound	Het,Hom	14	60.87
+AHNAK	chr18:54111531	G>A	K848K	Greyhound	Het	10	43.48
+AIF1	chr12:1105607	G>C	E99D	Greyhound	Het,Hom	11	47.83
+AK7	chr8:65210184	T>C	M645T	Yorkshire Terrier	Het,Hom	8	47.06
+AKAP11	chr22:8470990	A>T	D1774E	Golden Retriever	Het	9	40.91
+AKAP11	chr22:8483170	GAG>-	994	Golden Retriever	Het	10	45.45
+AKAP11	chr22:8485378	C>T	V259M	Golden Retriever	Het	10	45.45
+AKAP13	chr3:49163242	C>T	T377I	Yorkshire Terrier	Het,Hom	8	47.06
+AKAP9	chr14:17735826	A>G	N3810S	Shih Tzu	Het,Hom	10	43.48
+AKNAD1	chr6:42909723	T>G	F394C	Greyhound	Het,Hom	12	52.17
+AKR1E2	chr2:30698118	C>G	K185N	Yorkshire Terrier	Het,Hom	11	64.71
+ALDH16A1	chr1:107039661	C>T	G7S	Yorkshire Terrier	Het	9	52.94
+ALDH1L2	chr10:33325630	G>A	V176I	Yorkshire Terrier	Het,Hom	11	64.71
+ALDH1L2	chr10:33353508	G>A	G652S	Yorkshire Terrier	Het,Hom	7	41.18
+ALDH3A2	chr5:40530412	C>T	E705K	Greyhound	Het,Hom	11	47.83
+ALDH7A1	chr11:15839228	A>G	N420N	Greyhound	Het,Hom	14	60.87
+ALDH7A1	chr11:15839264	G>A	Y408Y	Greyhound	Het,Hom	14	60.87
+ALG12	chr10:17298028	G>A	V191I	Golden Retriever	Het,Hom	14	63.64
+ALKBH7	chr20:53784667	G>A	P99P	Golden Retriever	Het,Hom	11	50
+ALMS1	chr17:49342179	C>T	S4432N	Greyhound	Het,Hom	14	60.87
+ALMS1	chr17:49445836	A>C	S2586A	Greyhound	Het,Hom	14	60.87
+ALMS1	chr17:49445923	T>G	N2557H	Greyhound	Het,Hom	14	60.87
+ALMS1	chr17:49447044	C>G	S2183T	Greyhound	Het,Hom	14	60.87
+ALMS1	chr17:49448547	A>G	V1682A	Greyhound	Het,Hom	14	60.87
+ALMS1	chr17:49448550	G>A	P1681L	Greyhound	Het,Hom	14	60.87
+ALMS1	chr17:49471341	C>T	D879N	Greyhound	Het,Hom	14	60.87
+ALOX15	chr5:31890726	T>G	L597R	Yorkshire Terrier	Het	7	41.18
+ALOX5AP	chr25:9328690	C>T	R106K	Greyhound	Het,Hom	23	100
+ALX3	chr6:41903655	->CGC	K10delinsKR	Golden Retriever	Het,Hom	16	72.73
+AMOT	chrX:85746916	->CAG	V962delinsAV	Greyhound	Het,Hom	19	82.61
+AMOTL1	chr21:6125368	C>T	A728T	Golden Retriever	Het	9	40.91
+AMOTL1	chr21:6171479	C>T	Q352Q	Greyhound	Het,Hom	13	56.52
+AMOTL1	chr21:6176932	T>A	I58F	Greyhound	Het,Hom	13	56.52
+AMOTL1	chr21:6176992	G>A	P38S	Greyhound	Het,Hom	13	56.52
+AMPD3	chr21:33631705	G>A	P104P	Yorkshire Terrier	Het,Hom	7	41.18
+ANAPC15	chr21:25974056	G>A	Q61Q	Greyhound	Het,Hom	19	82.61
+ANGPTL2	chr9:56198615	C>T	S48S	Greyhound	Het,Hom	18	78.26
+ANGPTL7	chr2:84878696	G>A	T267M	Greyhound	Het,Hom	18	78.26
+ANK2	chr32:33119001	C>T	S2789L	Golden Retriever	Het,Hom	13	59.09
+ANK2	chr32:33131360	GAG>-	897	Golden Retriever	Het,Hom	12	54.55
+ANK3	chr4:12206646	G>C	S2779C	Shih Tzu	Het,Hom	11	47.83
+ANK3	chr4:12208469	A>G	H2201H	Golden Retriever	Het,Hom	11	50
+ANK3	chr4:12210421	A>G	F1551L	Golden Retriever	Het,Hom	9	40.91
+ANKEF1	chr24:12241538	C>T	V290M	Yorkshire Terrier	Het,Hom	7	41.18
+ANKFY1	chr5:30263312	C>T	E522K	Golden Retriever	Het	9	40.91
+ANKH	chr4:88235347	C>T	F254F	Yorkshire Terrier	Het,Hom	7	41.18
+ANKK1	chr5:19814169	C>T	G105S	Yorkshire Terrier	Het,Hom	9	52.94
+ANKLE2	chr26:391951	C>G	A302A	Yorkshire Terrier	Het,Hom	9	52.94
+ANKRD16	chr2:30098423	G>A	M107I	Yorkshire Terrier	Het,Hom	10	58.82
+ANKRD34C	chr3:57849868	C>T	R268H	Golden Retriever	Het,Hom	21	95.45
+ANKRD34C	chr3:57849888	G>A	S261S	Greyhound	Het,Hom	11	47.83
+ANKRD61	chr6:11453490	G>A	R67Q	Greyhound	Het,Hom	15	65.22
+ANKZF1	chr37:25781031	C>T	T122T	Golden Retriever	Het,Hom	12	54.55
+ANKZF1	chr37:25783118	C>T	A438A	Golden Retriever	Het,Hom	12	54.55
+ANLN	chr14:47818866	G>A	G265S	Yorkshire Terrier	Het,Hom	10	58.82
+ANO8	chr20:45433582	GAGGAG>-	628	Yorkshire Terrier	Het,Hom	8	47.06
+ANXA5	chr19:18445519	T>A	S144S	Yorkshire Terrier	Het,Hom	7	41.18
+AOAH	chr14:47904665	C>T	G543R	Greyhound	Het,Hom	13	56.52
+AOC3	chr9:20178148	G>A	I385I	Golden Retriever	Het,Hom	12	54.55
+APBA1	chr1:87916339	C>G	D14E	Golden Retriever	Het,Hom	10	45.45
+APBA1	chr1:87952463	C>T	N508N	Yorkshire Terrier	Het	7	41.18
+APCDD1	chr7:76366701	C>T	D403D	Shih Tzu	Het,Hom	12	52.17
+APOB	chr17:15903216	C>T	D425N	Greyhound	Het,Hom	18	78.26
+APOBR	chr6:18252531	A>T	G221G	Golden Retriever	Het,Hom	9	40.91
+APPBP2	chr9:36045869	T>A	T567T	Greyhound	Het,Hom	20	86.96
+APP	chr31:21470924	G>A	T220T	Greyhound	Het,Hom	16	69.57
+AQP4	chr7:61864704	G>A	R275R	Shih Tzu	Het,Hom	11	47.83
+ARFGEF3	chr1:30588187	C>A	D594E	Shih Tzu	Het,Hom	14	60.87
+ARFRP1	chr24:47252927	C>T	R102K	Greyhound	Het,Hom	17	73.91
+ARHGAP31	chr33:23053090	G>A	P231P	Golden Retriever	Het,Hom	12	54.55
+ARHGAP36	chrX:102222382	T>C	V208V	Yorkshire Terrier	Het	7	41.18
+ARHGEF10	chr16:54342263	C>T	S247S	Greyhound	Het,Hom	10	43.48
+ARHGEF19	chr2:81491082	G>A	R147Q	Golden Retriever	Het,Hom	13	59.09
+ARHGEF19	chr2:81491307	C>T	T222I	Greyhound	Het,Hom	21	91.3
+ARHGEF38	chr32:26490300	C>T	A505A	Greyhound	Het,Hom	12	52.17
+ARL14EP	chr18:36967055	G>A	I123I	Golden Retriever	Het	9	40.91
+ARNT2	chr3:57100110	T>A	G224G	Golden Retriever	Het,Hom	20	90.91
+ARNT	chr17:59955654	C>G	E370Q	Greyhound	Het,Hom	13	56.52
+ARNTL	chr21:36304209	G>A	V162I	Yorkshire Terrier	Het	9	52.94
+ARPP21	chr23:5874863	G>A	G647S	Golden Retriever	Het,Hom	12	54.55
+ARRDC2	chr20:44932492	C>T	V349M	Yorkshire Terrier	Het,Hom	8	47.06
+ARRDC2	chr20:44933407	G>A	S182S	Yorkshire Terrier	Het,Hom	8	47.06
+ARRDC3	chr3:17701204	G>T	A374A	Yorkshire Terrier	Het,Hom	7	41.18
+ARSB	chr3:27891708	A>G	T184A	Greyhound	Het,Hom	15	65.22
+ART5	chr21:26204542	G>A	L187L	Yorkshire Terrier	Het	8	47.06
+AS3MT	chr28:15314292	C>T	P9L	Yorkshire Terrier	Het,Hom	7	41.18
+ASCC2	chr26:22974077	C>T	V526M	Greyhound	Het,Hom	10	43.48
+ASCC2	chr26:22980946	C>G	G430R	Greyhound	Het,Hom	12	52.17
+ASIC3	chr16:15100163	C>T	F20F	Yorkshire Terrier	Het,Hom	14	82.35
+ASIP	chr24:23393552	C>T	R91C	Golden Retriever	Het,Hom	12	54.55
+ASTN2	chr11:70977777	G>A	T127T	Golden Retriever	Het,Hom	11	50
+ATE1	chr28:31671514	C>G	G348R	Greyhound	Het,Hom	10	43.48
+ATG14	chr8:31233962	C>G	D86H	Greyhound	Het,Hom	18	78.26
+ATG2A	chr18:52260559	A>T	E67D	Yorkshire Terrier	Het,Hom	11	64.71
+ATG4A	chrX:81679191	C>T	P214L	Golden Retriever	Het,Hom	9	40.91
+ATM	chr5:24265200	T>G	D711A	Yorkshire Terrier	Het	7	41.18
+ATM	chr5:24271446	T>C	S403S	Yorkshire Terrier	Het	7	41.18
+ATMIN	chr5:70782880	C>T	A855A	Yorkshire Terrier	Het,Hom	8	47.06
+ATP10A	chr3:34989416	C>T	R499C	Golden Retriever	Het,Hom	11	50
+ATP10B	chr4:50122171	G>A	E756K	Golden Retriever	Het	10	45.45
+ATP12A	chr25:18764393	G>A	N495N	Greyhound	Het,Hom	10	43.48
+ATP12A	chr25:18771563	G>A	A178A	Greyhound	Het,Hom	13	56.52
+ATP1A1	chr17:53832246	A>G	E157E	Greyhound	Het,Hom	15	65.22
+ATP1A2	chr38:22037010	C>T	T529T	Golden Retriever	Het	9	40.91
+ATP1A3	chr1:112339282	C>A	G556G	Yorkshire Terrier	Het,Hom	8	47.06
+ATP2C2	chr5:68010092	G>A	F343F	Shih Tzu	Het,Hom	12	52.17
+ATP4A	chr1:117105905	C>T	I147I	Golden Retriever	Het,Hom	14	63.64
+ATP4A	chr1:117110638	G>A	A619A	Golden Retriever	Het,Hom	13	59.09
+ATP4B	chr22:60901600	G>A	S121L	Shih Tzu	Het,Hom	15	65.22
+ATP7B	chr22:201943	C>T	I538I	Golden Retriever	Het,Hom	13	59.09
+ATP9A	chr24:37847923	G>A	T340T	Shih Tzu	Het,Hom	10	43.48
+ATRNL1	chr28:25983036	A>G	V808V	Greyhound	Het,Hom	19	82.61
+ATRNL1	chr28:25983042	G>A	P810P	Greyhound	Het,Hom	19	82.61
+ATRNL1	chr28:25983114	A>G	T834T	Greyhound	Het,Hom	19	82.61
+ATXN2L	chr6:18347907	G>A	E317E	Golden Retriever	Het,Hom	11	50
+AUTS2	chr6:2749426	G>A	P1178L	Yorkshire Terrier	Het,Hom	12	70.59
+AZGP1	chr6:9623464	G>A	S250L	Yorkshire Terrier	Het,Hom	10	58.82
+B4GALNT2	chr9:25343030	C>T	G407G	Greyhound	Het,Hom	15	65.22
+B4GAT1	chr18:50966220	C>A	Q619K	Greyhound	Het,Hom	18	78.26
+BAAT	chr11:58102680	G>A	P394L	Greyhound	Het,Hom	12	52.17
+BAG6	chr12:1128806	C>T	Q920Q	Shih Tzu	Het,Hom	10	43.48
+BAG6	chr12:1130517	C>T	G652S	Golden Retriever	Het	11	50
+BAG6	chr12:1132445	A>G	P386P	Greyhound	Het,Hom	11	47.83
+BAG6	chr12:1132877	C>G	V305V	Golden Retriever	Het	11	50
+BANF2	chr24:5274695	C>A	M53I	Shih Tzu	Het,Hom	12	52.17
+BAZ1B	chr6:6745299	G>A	Q771Q	Greyhound	Het,Hom	14	60.87
+BAZ1B	chr6:6745533	T>C	L849L	Greyhound	Het,Hom	14	60.87
+BCAR1	chr5:75493858	G>A	G341D	Yorkshire Terrier	Het,Hom	8	47.06
+BCO1	chr5:70613627	G>A	N346N	Yorkshire Terrier	Het,Hom	9	52.94
+BCO1	chr5:70613710	G>A	L319F	Yorkshire Terrier	Het,Hom	9	52.94
+BCO1	chr5:70613741	G>A	H308H	Yorkshire Terrier	Het,Hom	9	52.94
+BDH1	chr33:30407495	G>A	S205F	Golden Retriever	Het,Hom	15	68.18
+BDH1	chr33:30407692	C>G	M139I	Greyhound	Het,Hom	14	60.87
+BECN2	chr7:33327464	G>A	T24T	Golden Retriever	Het,Hom	11	50
+BEST3	chr10:11618050	G>A	T261I	Golden Retriever	Het,Hom	9	40.91
+BFSP1	chr24:5499151	C>T	P553P	Greyhound	Het	10	43.48
+BFSP1	chr24:5499154	G>A	R554R	Greyhound	Het	10	43.48
+BHMT	chr3:27737139	G>T	P313T	Greyhound	Het,Hom	15	65.22
+BHMT	chr3:27742890	G>A	H153H	Greyhound	Het,Hom	15	65.22
+BLK	chr25:26349380	C>T	T97T	Greyhound	Het,Hom	18	78.26
+BLNK	chr28:9648986	A>G	S218P	Golden Retriever	Het,Hom	15	68.18
+BLOC1S5	chr35:7977046	C>T	E115K	Golden Retriever	Het	13	59.09
+BMS1	chr28:4221456	T>C	P416P	Greyhound	Het,Hom	19	82.61
+BOD1L1	chr3:66489299	C>T	T1910I	Golden Retriever	Het,Hom	15	68.18
+BOD1L1	chr3:66490161	G>C	L2197F	Golden Retriever	Het,Hom	11	50

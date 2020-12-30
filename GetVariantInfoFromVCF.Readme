@@ -1,0 +1,18 @@
+####################################################################################################################################
+## Usage: java -Xmx32g -cp Pancancer.jar util.GetVariantInfoFromVCF variant_list_file variant_column_count sample_list_file       ##
+Exception in thread "main" java.lang.IllegalArgumentException: Invalid number of command-line arguments. See usage
+##                       output_file output_type [default_value]                                                                  ##
+## Recommeneded JVM arguments: -Xmx32g, maximum Java memory to be passed right after the java command: see JVM documentation      ##
+## Commad line arguments:                                                                                                         ##
+##    variant_list_file:     tab-delimited file with 5 or more columns describing the variants as follows:                        ##
+	at util.GetVariantInfoFromVCF.main(GetVariantInfoFromVCF.java:30)
+##                           Gene      Chromosome      Pos      Ref allele      Alt allele      Optional columns (tab-delimited)  ##
+##    variant_column_count:  the expected number of columns in the variant_list_file (5-30)                                       ##
+##    sample_list_file:      tab-delimited file with two (or three) columns as follows:                                           ##
+##                           Sample id          VCF file path       [Depth for coverage file path, not used in this program]      ##
+##                           Lines starting with # will be ignored                                                                ##
+##    output_file:           A matrix of all variants and their variant info per sample (VAF or DP,AD)                            ##
+##    output_type:           Either VAF or depth (case insensitive)                                                               ##
+##    [default_value]:       Optional default variant allele frequency (VAF) or depth information for uncalled variants, filtered-out or failed processing, ##
+##                           0 for VAF or 0,0 for totalDepth(DP),alleleDepth(AD)                                                  ##
+####################################################################################################################################

@@ -1,0 +1,16 @@
+######################################################################################################################################
+## Usage: java -Xmx8g -cp Pancancer.jar util.AddGeneNameCustomized input_file gtf_file output_file gene_name_col gene_id_col        ##
+## Recommeneded JVM arguments: -Xmx8g, maximum Java memory to be passed right after the java command: see JVM documentation         ##
+## Commad line arguments:                                                                                                           ##
+##    input_file:     tab-delimited (such as vcf or bed) text of gzip compressed file (.gz) with variants/mutations, one per line,  ##
+##                    satisfying the following assumptions:                                                                         ##
+##                    1. Column gene_id_col starts with ensembl gene id.                                                            ##
+##                    2. If column gene_id_col has more tokens, they must be separated by colons (:).                               ##
+##                    Lines starting with # are written to the output_file regardless of their content.                             ##
+##    gtf_file:       GTF format (can be gzip compressed) containing the annotated genomic regions including ensembl gene_id        ##
+##                    official gene symbol denoted as (gene_name)                                                                   ##
+##    output_file:    Path to output file containing all lines of input_file with gene names added before the gene_name_col column  ##
+##                    Will be automatically compressed if the file path ends with .gz extension                                     ##
+##    gene_name_col:  1-based column number before which the gene name to be added in the output file                               ##
+##    gene_id_col:    1-based column number indicating the column that contains the ensembl gene id in the input file               ##
+######################################################################################################################################
