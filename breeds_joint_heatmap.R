@@ -40,20 +40,21 @@ cancer_pallete <- c("blue", "red", "green", "#9A4D43", "#FF00B6", "#FFD300", "#0
 breed_pallete <- c("yellow", "lightblue", "orange", "red", "purple", "gray", "green", "#E58FAC", "#964B00", "black");
 
 ############ code dependency paths ########################
+# Please modify these file paths as needed
+base_dir <- paste(lab_path, "pancancer\\breed_predict_publish\\", sep="");
+output_base <- paste(base_dir, "sample_files\\", sep="");
 # Code to build sample meta data
-build_meta_data_code_path <- paste(lab_path, "pancancer\\r-code\\breed_prediction\\publish\\build_sample_meta_data.R", sep="");
+build_meta_data_code_path <- paste(base_dir, "build_sample_meta_data.R", sep="");
+
 
 ############ Input and output paths ########################
 # Please modify these file paths as needed
-base_dir <- paste(lab_path, "pancancer\\WES\\germline\\germline_residues\\", sep="");
-output_base <- paste(base_dir, "plots\\predict_breeds\\publish2\\", sep="");
-
 # Input file containing VAF values for all samples for each germline variant: samples as columns and variants as rows
-VAF_input_file <- paste(base_dir, "germline_VAF_matrix.reset_low_coverage.txt.gz", sep="");
+VAF_input_file <- paste(output_base, "germline_VAF_matrix.reset_low_coverage.txt.gz", sep="");
 # Input file containing all breed-specific variants
 specific_variants_file <- paste(output_base, "all_breed_specific_variants.txt", sep="");
 # Input file containing all samples meta data
-meta_data_file <- paste(lab_path, "pancancer\\metadata\\breed_prediction_metadata.txt", sep="");
+meta_data_file <- paste(output_base, "breed_prediction_metadata.txt", sep="");
 
 output_png1 <- paste(output_base, "breeds_heatmap_main_305_dpi.png", sep=""); # this heatmap won't contain samples with unknown breeds
 output_png2 <- paste(output_base, "breeds_heatmap_assignment_305_dpi.png", sep=""); # this heatmap will contain samples with unknown breeds

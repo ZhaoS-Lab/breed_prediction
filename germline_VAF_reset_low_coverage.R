@@ -27,7 +27,7 @@ meta_row_count <- 1;
 
 depth_cutoff <- 10; # Cutoff for minimum coverage. Any variant with coverage < 10 will be assigned a VAF value of NA.
 
-base_dir <- paste(lab_path, "pancancer\\WES\\germline\\germline_residues\\", sep="");
+base_dir <- paste(lab_path, "pancancer\\breed_predict_publish\\sample_files\\", sep="");
 
 ################# Input files ######################## 
 # make sure to modify the paths to the correct ones

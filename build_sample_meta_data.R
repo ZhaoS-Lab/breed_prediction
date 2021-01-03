@@ -47,8 +47,14 @@ add_tumor_normal_columns <- function(input_meta_data, column_names) {
 	for(i in 1:nrow(output_meta_data)) {
 		tumor_col <- which(column_names == output_meta_data[i, "TumorID"]);
 		normal_col <- which(column_names == output_meta_data[i, "NormalID"]);
+		if(length(tumor_col) == 0) {
+			stop(paste("Tumor sample ", output_meta_data[i, "TumorID"], "was found in the meta data file but not the VAF file"));
+		}
+		if(length(normal_col) == 0) {
+			stop(paste("Normal sample ", output_meta_data[i, "NormalID"], "was found in the meta data file but not the VAF file"));
+		}
 		if(length(normal_col) > 1) {
-			normal_col <- normal_col[which((normal_col - tumor_col) == 1)];
+			normal_col <- normal_col[1];
 		}
 		output_meta_data[i, "NormalCol"] <- normal_col;
 		output_meta_data[i, "TumorCol"] <- tumor_col;
