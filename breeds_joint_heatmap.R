@@ -171,7 +171,12 @@ for(heatmap_version in c(1,2)) {
 		decorate_heatmap_body("ht", {grid.rect(gp = gpar(fill = "transparent", col = "black"))})
 	dev.off();
 
-	ordered_samples <- heatmap_samples[column_order(heatmap_object)[[1]]];
+	ht_column_order <- column_order(heatmap_object);
+	### Fix a ComplexHeatmap package version inconsistency issue
+	if(length(ht_column_order) != length(heatmap_samples)) {
+		ht_column_order <- ht_column_order[[1]];
+	}
+	ordered_samples <- heatmap_samples[ht_column_order];
 	backup_samples[[heatmap_version]] <- ordered_samples;
 	temp_dataset <- data.frame("SampleName"=ordered_samples, "Breed"=meta_data[ordered_samples, "Breed"]);
 	write.table(temp_dataset, file=output_clusters[heatmap_version], quote=FALSE, sep="\t", row.names = FALSE, col.names=TRUE);
